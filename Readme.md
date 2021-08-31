@@ -26,6 +26,7 @@ _Enter Your Name:_
 | P3 | x x | 10000 | Turn Pending | BET |
 | P4 | x x | 10000 | Turn Pending | BET |
 | P5 | x x | 10000 | Turn Pending | BET |
+
 _Dealer's cards_
 **P2 Place Your Bet**: _3000_
 
