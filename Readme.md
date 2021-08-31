@@ -1,7 +1,7 @@
 # Hold'em Poker
 ***
 ### Description:
-This is a program for the **Hold'em Poker** game whic has been written in **C language**.
+This is a program for the **Hold'em Poker** game which has been written in **C language**.
 
 ### Goals:
 - To design a simple and fun game to play with friends.
@@ -14,6 +14,7 @@ This is a program for the **Hold'em Poker** game whic has been written in **C la
 ### Design:
 ***
 _Enter the number of players:_
+
 _Enter Your Name:_ 
 ***
 **The above data will be collected before starting the actual game.**
