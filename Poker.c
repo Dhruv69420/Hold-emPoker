@@ -350,7 +350,7 @@ void decision(char **dealer_cards, char *cards[n][2], char **names)
             ind = i;
         }
     }
-    printf("%s %d", names[ind], pot);
+    printf("%s is the WINNER taking away the POT with %d POINTS", names[ind], pot);
 }
 int main()
 {
